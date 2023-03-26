@@ -4,8 +4,7 @@
  *  _isalpha - function that checks upper and lowercase alphabet
  *
  *  @c: the parameter to be checked
- *  Retur: 1  when its an alphabet
- * and 0 when otherwise
+ *  Return: 0 (when succesful)
  */
 
 int _isalpha(int c)
