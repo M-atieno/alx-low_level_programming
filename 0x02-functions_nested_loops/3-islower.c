@@ -4,7 +4,7 @@
  * _islower - function that checks the lower case
  *
  * @c: parameter to be printed
- * Return: 0 
+ * Return: 0 (success)
  */
 
 int _islower(int c)
