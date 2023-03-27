@@ -5,9 +5,7 @@
   * @str: parameter for the function
   *
   * Return: 0 when succesful
-  *
   */
-
 void _puts(char *str)
 {
 	int a;
