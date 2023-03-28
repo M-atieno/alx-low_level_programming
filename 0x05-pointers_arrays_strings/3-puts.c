@@ -1,9 +1,9 @@
 #include "main.h"
 #include <stdio.h>
  /**
-  * _puts - function that prints a string
-  * @str: parameter for the function
-  *
+  * _puts - writes the character pointer str to stdout
+  * @str: the character to print
+  * Return: 0
   */
 void _puts(char *str)
 {
